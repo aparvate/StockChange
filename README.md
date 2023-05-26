@@ -1,6 +1,6 @@
-# StockChange
+# TempProj
 
-Stock Exchange website.
+Website.
 
 Tech Stack:
 Frontend: Choose: React.js/Angular.js/Vue.js
